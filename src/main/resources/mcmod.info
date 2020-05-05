@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ydt",
+  "name": "You Dropped This",
+  "description": "Open-ended mod to play certain sounds when an item is thrown/dropped by a player, and when the item hits the ground",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fonnymunkey"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
