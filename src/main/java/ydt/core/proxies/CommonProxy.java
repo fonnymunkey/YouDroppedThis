@@ -24,7 +24,7 @@ public class CommonProxy
 	
 	public void initLists()
 	{
-		if(ConfigHandler.useItemSpecificDropSounds) ConfigHandler.buildItemDropList();
-		if(ConfigHandler.useItemSpecificImpactSounds) ConfigHandler.buildItemImpactList();
+		if(ConfigHandler.specificDroppedItemsMakeNoise) ConfigHandler.buildItemDropList();
+		if(ConfigHandler.specificDropsImpactingGroundMakeNoise) ConfigHandler.buildItemImpactList();
 	}
 }
